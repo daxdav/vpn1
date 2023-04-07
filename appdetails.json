@@ -7,13 +7,10 @@
     "size":""
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":0, "app":"com.utorrent.client"},
+    {"id":1, "app":"com.torrent.client"},
+    {"id":2, "app":"com.tor.client"},
+    {"id":3, "app":"com.get.client"}
   ],
   "free":[
     {"id":2, "file":0, "city":"Japan1","country":"Japan","image":"japan","ip":"219.100.37.137","active":"true","signal":"a"},
